@@ -1,4 +1,3 @@
-# Use the specific Python version you requested
 FROM python:3.10.12-slim
 
 # Set the working directory inside the container
